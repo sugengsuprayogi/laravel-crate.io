@@ -11,8 +11,8 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "illuminate/support": "5.2.*",
-        "illuminate/database": "5.2.*",
+        "illuminate/support": "*",
+        "illuminate/database": "*",
         "crate/crate-dbal": "*"
     },
     "require-dev": {
